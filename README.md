@@ -64,11 +64,13 @@
 
 ###
 
-<img data-importer="image" align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGtmYXpzb2V4MGJtYXc3bTgxa29vZzRxd2Y1aXh0Y2RyMTZiOXkzNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/P8ef3Dkynk0xLx1h1T/giphy.gif"  />
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGtmYXpzb2V4MGJtYXc3bTgxa29vZzRxd2Y1aXh0Y2RyMTZiOXkzNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/P8ef3Dkynk0xLx1h1T/giphy.gif"  />
+</div>
 
 ###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/Ibrahim-med/Ibrahim-med/snake-output/snake.svg" alt="Snake animation" />
+<p data-importer="text" align="left">📫 Connect With Me :</p>
 
 ###
 
@@ -79,12 +81,6 @@
   <a href="guelfoutmohamedibrahim@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-</div>
-
-###
-
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
 ###
